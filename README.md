@@ -54,5 +54,5 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-renantiarles@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:renantiarles@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-renantiarles@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renantiarles@gmail.com)](mailto:renantiarles@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/SrTiarles?label=follow&style=social)](https://github.com/SrTiarles)
