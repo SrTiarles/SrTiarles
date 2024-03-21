@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC
+  💼 Ferramentas: <a https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC a>
 <p align="left">
   💌 Entre em contato comigo ⤵️
 </p>
