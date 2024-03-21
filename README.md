@@ -2,10 +2,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🤔 Aprendendo sempre mais.
+- 🎓 Estudando Tecnico em Desenvolvimento de Sistemas no Eron Domingues.
+- 🌱 Aprendendo mais sobre HTML/CSS, e Dart.
 
 ## Minhas Skills
 
