@@ -2,12 +2,11 @@
 
 <p align="left"> 
   Olá, sou Renan Tiarles um <strong>Apaixonado</strong>.<br>
-  Estudando Tecnologia em Desenvolvimento de Sistemas (TDS) do Eron Domingues em Marechal Cândido Rondon - PR.
+  Estudando Tecnologia em Desenvolvimento de Sistemas (TDS) no Eron Domingues em Marechal Cândido Rondon - PR.
 </p>
 
 <p align="left">
-  🦄 Linguagens: ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-</p>
+  🦄 Linguagens: ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 </p>
 
 <p align="left">
