@@ -57,4 +57,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-renantiarles@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renantiarles@gmail.com)](mailto:renantiarles@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/SrTiarles?label=follow&style=social)](https://github.com/SrTiarles)
  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=sr.tiarles" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=instagram.com/sr.tiarles" alt="Instagram"/></a>
