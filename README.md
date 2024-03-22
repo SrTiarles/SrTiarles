@@ -55,5 +55,9 @@
 
 ## Onde me encontrar
 
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=instagram.com/sr.tiarles" alt="Instagram"/></a>
+  <div> 
+  <!-- GMAIL -->
+  <a href = "mailto:renantiarles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- INSTAGRAM -->
+  <a href="https://www.instagram.com/sr.tiarles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
