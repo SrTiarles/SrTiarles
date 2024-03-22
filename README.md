@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=SrTiarles&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Aprendendo sempre mais.
