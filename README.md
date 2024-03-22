@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Aprendendo sempre mais.
-- 🎓 Estudando Tecnico em Desenvolvimento de Sistemas no Eron Domingues.
+- 🎓 Estudando no curso Tecnico em Desenvolvimento de Sistemas no Eron Domingues.
 - 🌱 Aprendendo mais sobre HTML/CSS, e Dart.
 
 ## Minhas Skills
