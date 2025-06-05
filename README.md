@@ -8,10 +8,3 @@
 *Tools*
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-*Contact*
-
-  <div> 
-  <!-- GMAIL -->
-  <a href = "mailto:renantiarles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
